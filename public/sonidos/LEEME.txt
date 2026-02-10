@@ -1,0 +1,19 @@
+INSTRUCCIONES PARA AGREGAR SONIDOS
+====================================
+
+1. Coloca tus archivos MP3 en esta carpeta
+2. Los nombres DEBEN ser exactamente:
+   - sonido1.mp3
+   - sonido2.mp3
+   - sonido3.mp3
+   - sonido4.mp3
+   - sonido5.mp3
+
+3. Puedes descargar sonidos gratis de:
+   - https://freesound.org
+   - https://mixkit.co/free-sound-effects/
+   - https://www.zapsplat.com
+
+4. Asegúrate de que sean archivos MP3
+
+¡IMPORTANTE! Sin estos archivos, los sonidos no funcionarán.
